@@ -14,7 +14,7 @@ function whileLoop(num){
 }
 
 function doWhileLoop(array){
-  
+
  do {
    array.length -= 1;
  } while (array.lenght > 0)
